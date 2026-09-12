@@ -7,10 +7,12 @@ USE OF AI: VERY LOW
 i used ai to explain what a block does by using official sources and documentation for ue5, ai rarely helped, i just followed youtube tutorials and tried to understand every line of bp i could
 
 
+the following were built from third person as base
 
 
-
-
+player controller
+ranged and melee enemies 
+third person character
 
 
 
